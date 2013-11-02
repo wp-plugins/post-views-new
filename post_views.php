@@ -1,15 +1,15 @@
 <?php
 /*
- * Plugin Name: Post_views
- * Plugin URI: http://www.sdmusics.co.nr
- * Description: Wordpress Plugin for viewing Number of views for the Post.
- * This simple Plugin Helps the Admins to get the Info about the Views till date of various posts on the Blog.This may help them to Judge their
- * various Authors and may also get the Idea of the tastes of their readers.
- * Version: 1.0
- * Author: Deven Bansod
- * Author URI: http://www.facebook.com/bansoddeven
- * License: GPL2
- */
+ Plugin Name: Post_views
+ Plugin URI: http://www.sdmusics.co.nr
+ Description: Wordpress Plugin for viewing Number of views for the Post.
+ This simple Plugin Helps the Admins to get the Info about the Views till date of various posts on the Blog.This may help them to Judge their
+ various Authors and may also get the Idea of the tastes of their readers.
+ Version: 1.0
+ Author: bansod_deven
+ Author URI: http://www.facebook.com/bansoddeven
+ License: GPL2
+*/
 function Post_views($text) {
         $a=get_post_meta(get_the_id(),'Page_views');//Gets the Meta Data for the Post.
         if($a==NULL)
