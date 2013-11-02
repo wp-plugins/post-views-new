@@ -1,4 +1,4 @@
-=== Plugin_Post_views ===
+=== Post_views ===
 =================
 
 Contributors: bansod_deven
