@@ -33,9 +33,6 @@ Post_views is a Simple Wordpress Plugin to show the views till date, of various 
 
 If Any Problem, mail me at devenbansod [dot] bits [at] gmail [dot] com.
 
-== Changelog ==
-None
-
 == FAQS ==
 If any problem, mail me at devenbansod [dot] bits [at] gmail [dot] com.
 
