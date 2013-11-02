@@ -31,9 +31,11 @@ Post_views is a Simple Wordpress Plugin to show the views till date, of various 
 2. Upload the 'Post_views' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
 3. Activate Post_views from your Plugins page. 
 
+If Any Problem, mail me at devenbansod [dot] bits [at] gmail [dot] com.
 == Changelog ==
 None
 
-== Frequently Asked Questions ==
+== FAQS ==
 If any problem, mail me at devenbansod [dot] bits [at] gmail [dot] com.
 
+Thanks
