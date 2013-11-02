@@ -37,3 +37,8 @@ If Any Problem, mail me at devenbansod [dot] bits [at] gmail [dot] com.
 If any problem, mail me at devenbansod [dot] bits [at] gmail [dot] com.
 
 Thanks
+ 
+== Support ==
+If any problem, mail me at devenbansod [dot] bits [at] gmail [dot] com.
+
+Thanks
