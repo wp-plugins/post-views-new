@@ -1,6 +1,6 @@
-=== Post_views ===
+=== Post Views ===
 Contributors: bansod_deven
-Tags: views, posts, posts_views, post views
+Tags: views, posts, posts_views, post views, Post views, Page views, Post_views
 Requires at least: 3
 Tested up to: 3.7.1
 Stable tag: 1.0
@@ -39,6 +39,5 @@ If any problem, mail me at devenbansod [dot] bits [at] gmail [dot] com.
 Thanks
  
 == Support ==
-If any problem, mail me at devenbansod [dot] bits [at] gmail [dot] com.
-
-Thanks
+Post any Query in the Support Section.
+I would be more than Happy to answer them.
