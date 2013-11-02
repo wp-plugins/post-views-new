@@ -35,7 +35,6 @@ If Any Problem, mail me at devenbansod [dot] bits [at] gmail [dot] com.
 
 == Screenshots ==
 1. Admin Area of the Plugin(Dashboard->Settings->Post Views)
-2. `./assets/S1.jpg`
 
 == FAQS ==
 If any problem, mail me at devenbansod [dot] bits [at] gmail [dot] com.
