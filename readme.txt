@@ -1,0 +1,35 @@
+=== Post_views ===
+Contributors: bansod_deven
+Tags: views, posts, posts_views, post views
+Requires at least: 3
+Tested up to: 3.7.1
+Stable tag: 1.0
+License: GPLv2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Post_views is a Simple Wordpress Plugin to show the views till date, of various posts of a blog.
+
+== Description ==
+
+ * Wordpress Plugin for viewing Number of views for the Post.
+ * This simple Plugin Helps the Admins to get the Info about the Views till date of various posts on        
+    the Blog.
+ * This may help them to Judge their various Authors and may also get the Idea of the tastes of 
+    their readers.
+
+== Installation ==
+
+= From your WordPress dashboard =
+
+1. Visit 'Plugins > Add New'
+2. Search for 'Post_views'
+3. Activate Post_views from your Plugins page.
+
+= From WordPress.org =
+
+1. Download Post_views
+2. Upload the 'Post_views' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
+3. Activate Post_views from your Plugins page. 
+
+== Changelog ==
+None
