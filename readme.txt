@@ -3,7 +3,7 @@ Contributors: bansod_deven
 Tags: views, posts, posts_views, post views, Post views, Page views, Post_views
 Requires at least: 3
 Tested up to: 3.7.1
-Stable tag: 1.0
+Stable tag: 2.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
