@@ -3,13 +3,13 @@
 Plugin Name: Post_views_plugin
 Plugin URI: http://www.wordpress.org/plugins/post-views-new
 Description: Shows the Various Posts Veiws until now.
-Version: 3.0
+Version: 3.1
 Author: Deven Bansod
 Author URI: http://www.facebook.com/bansoddeven
 License: GPL2
 */
-define( POST_VIEWS_PLUGIN_URL ,  plugin_dir_url( __FILE__ ) );
-define( SITE_URL , get_site_url() );
+define( 'POST_VIEWS_PLUGIN_URL' ,  plugin_dir_url( __FILE__ ) );
+define( 'WP_SITEURL' , get_site_url() );
 
 
 /**
@@ -44,9 +44,9 @@ function Post_views( $post_content ) {
         
         }
         
-        $post_views_output = "<a  href='" . SITE_URL . "/wp-admin/options-general.php?page=Post_views' class='entry-meta' style='text-align:center'><b>Post Views</a></b> = " . $post_views[0];
+        $post_views_output = "<a  href='" . WP_SITEURL . "/wp-admin/options-general.php?page=Post_views' class='entry-meta' style='text-align:center'><b>Post Views</a></b> = " . $post_views[0];
         
-        $final_output = $post_views_output . "<br/>" . $text;   
+        $final_output = $post_views_output . "<br/>" . $post_content;   
 
         //Echoes the rest of the Content of the Post
         return $final_output;
@@ -55,7 +55,7 @@ function Post_views( $post_content ) {
 
 function add_options_post_views() {
         
-        add_options_page( "Post Views" , "Post Views" , 1 , "Post_views" , "Post_views_admin" );
+        add_options_page( "Post Views" , "Post Views" , "manage_options" , "Post_views" , "Post_views_admin" );
     
 }
 

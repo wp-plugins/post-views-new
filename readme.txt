@@ -2,12 +2,12 @@
 Contributors: bansod_deven
 Tags: views, posts, posts_views, post views, Post views, Page views, Post_views
 Requires at least: 3
-Tested up to: 3.7.1
-Stable tag: 3.0
+Tested up to: 4.1
+Stable tag: 3.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Post_views is a Simple Wordpress Plugin to show the views till date, of various posts and pages of a blog.
+Post_views is a Simple Wordpress Plugin to show the views till date ( from the date of using the plugin infact ), of various posts and pages of a blog.
 
 == Description ==
 
